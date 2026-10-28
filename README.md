@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I've just finnished Python Certification:<br>
+https://www.freecodecamp.org/certification/jannorth/python-v9
+
 <!--
 **jansevera/jansevera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
